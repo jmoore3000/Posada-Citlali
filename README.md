@@ -1,1 +1,2 @@
 # Posada-Citlali
+This will be a web site that I will offer to a local hotel in hopes that it will be a good addition to my portfolio.  To start with this will be just one landing page that has three main sections: review, gallery and contact us.  IF they accept I would like to add an online booking feature and some other pages to flesh out the site.  The additions will be done for a price but this basic site will be free, as long as they are willing to pay for the cost of server rent and domain purchase.
