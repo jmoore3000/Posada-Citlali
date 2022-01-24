@@ -41,6 +41,7 @@ a{
     display: flex;
     flex-direction: column;
     align-items: center;
+    
 }
 
 h1{
@@ -54,6 +55,7 @@ h1{
     color: black;
 }
 .cover{
+    display: block;
     border-style: inset;
     border-color: #0b704e;
     border-radius: 8px;
